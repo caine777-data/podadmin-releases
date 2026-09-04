@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.9",
   "url": "https://github.com/caine777-data/podadmin-releases/releases/latest",
-  "notes": "mise_a_jour_mail",
+  "notes": "correction_bug_televerseur+taille_fenetre",
   "version_minimale": ""
 }
