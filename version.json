@@ -1,6 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.9.0",
   "url": "https://github.com/caine777-data/podadmin-releases/releases/latest",
-  "notes": "Nouvelle version disponible.",
-  "version_minimale": ""
+  "notes": "onglet_televerser+video_discipline+maj selection_multiple",
+  "version_minimale": "1.9.0",
+  "obligatoire": true
 }
