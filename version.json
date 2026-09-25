@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.2",
   "url": "https://github.com/caine777-data/podadmin-releases/releases/latest",
-  "notes": "onglet_televerser+video_discipline+maj selection_multiple",
-  "version_minimale": "1.9.0",
-  "obligatoire": true
+  "notes": "bug de televersement par lot corrigé",
+  "version_minimale": "",
+  "obligatoire": false
 }
