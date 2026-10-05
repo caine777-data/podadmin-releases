@@ -1,7 +1,7 @@
 {
-  "version": "1.9.2",
+  "version": "1.10.0",
   "url": "https://github.com/caine777-data/podadmin-releases/releases/latest",
-  "notes": "bug de televersement par lot corrigé",
-  "version_minimale": "",
-  "obligatoire": false
+  "notes": "Nouvelle version disponible.",
+  "version_minimale": "1.10.0",
+  "obligatoire": true
 }
