@@ -1,7 +1,7 @@
 {
-  "version": "1.10.0",
+  "version": "1.11.1",
   "url": "https://github.com/caine777-data/podadmin-releases/releases/latest",
-  "notes": "Nouvelle version disponible.",
-  "version_minimale": "1.10.0",
-  "obligatoire": true
+  "notes": "mis_a_jour_UI_ARISTOTE",
+  "version_minimale": "",
+  "obligatoire": false
 }
