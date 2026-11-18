@@ -1,7 +1,7 @@
 {
-  "version": "1.13.5",
+  "version": "1.13.6",
   "url": "https://github.com/caine777-data/podadmin-releases/releases/latest",
-  "notes": " correctif_bug",
+  "notes": "optimisation",
   "version_minimale": "",
   "obligatoire": false
 }
