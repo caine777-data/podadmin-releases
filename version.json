@@ -1,7 +1,7 @@
 {
-  "version": "1.13.6",
+  "version": "1.14.0",
   "url": "https://github.com/caine777-data/podadmin-releases/releases/latest",
-  "notes": "optimisation",
+  "notes": "ajout_changement _proprietaire_onglet_video",
   "version_minimale": "",
   "obligatoire": false
 }
